@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/MyFirstJPASuperhero.iml" filepath="$PROJECT_DIR$/.idea/MyFirstJPASuperhero.iml" />
+      <module fileurl="file://$PROJECT_DIR$/itschool/itschool.iml" filepath="$PROJECT_DIR$/itschool/itschool.iml" />
+    </modules>
+  </component>
+</project>
